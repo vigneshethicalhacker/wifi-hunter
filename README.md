@@ -8,7 +8,6 @@ A powerful and simple Python-based tool designed to perform Wi-Fi deauthenticati
 - 🧠 Improve your ethical hacking skills.
 
 
-
 ## ⚠️ Warning
 **This tool is for educational purposes only!** Unauthorized use of this tool on networks that you do not own or have explicit permission to test is illegal and unethical. Use this tool responsibly and only in environments where you have permission to perform security testing.
 
